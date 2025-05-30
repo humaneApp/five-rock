@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.HiFeelings" parent="android:Theme.Material.Light.NoActionBar">
+    </style>
+</resources>
